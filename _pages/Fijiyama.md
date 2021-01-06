@@ -229,7 +229,7 @@ For large datasets (15 and more timepoints) or images (1GB+), specific tools sho
 Citing this work
 ----------------
 
--   R. Fernandez and C. Moisy, *“Fijiyama: a registration tool for 3D multimodal time-lapse imaging”* (under review)
+- R.Fernandez and C. Moisy, "Fijiyama: a registration tool for 3D multimodal time-lapse imaging, Bioinformatics", 2020, in press, https://doi.org/10.1093/bioinformatics/btaa846
 
 Contact
 -------
